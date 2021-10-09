@@ -14676,8 +14676,8 @@
             "restart_policy": "unless-stopped",
             "title": "Dradis",
             "type": 1
-        }
-      {
+        },
+        {
             "type": 1,
             "title": "Registry",
             "description": "Docker image registry",
