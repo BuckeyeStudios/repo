@@ -6993,8 +6993,8 @@
                 }
             ],
             "restart_policy": "unless-stopped"
-        }
-      {
+        },
+        {
             "categories": [
                 "Music"
             ],
